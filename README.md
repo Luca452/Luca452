@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Luca452/Luca452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🛠 My projects:
+- [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
+- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32-DevBoard): an STM32 Nucleo audio shield for real time audio processing
+
+#### 🎓 University material:
