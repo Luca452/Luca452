@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
-- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32-DevBoard): an STM32 Nucleo audio shield for real time audio processing, designed w\ @AleDedor
+- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32-DevBoard): an STM32 Nucleo audio shield for real time audio processing, designed with @AleDedor
 
 #### 🎓 University Projects:
 - [Digital Electronics System Design course LABs code](https://github.com/Luca452/Digital-Electronics-System-Design-LABs): code of the 3 projects done during the semester. VHDL designs targeting a Basys 3 Artix 7 FPGA board
