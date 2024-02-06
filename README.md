@@ -10,7 +10,7 @@
 
 ## 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
-- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32-DevBoard): an STM32 Nucleo audio shield for real time audio processing, designed with @AleDedor
+- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32Nucleo-Codec-Shield): an STM32 Nucleo audio shield for real time audio processing, designed with @AleDedor
 - [Sun Simulator for testing of small sized solar cells](https://github.com/Luca452/Sun-Simulator): Sun simulator for testing of small sized solar cells, used for the Perovskite solar cells mounted on 6S CubeSat
 - [Supercapacitors-UPS based on 2x100F supercapacitors](https://github.com/Luca452/Supercapacitor-UPS): UPS based on 2x100F supercapacitors because...why not! (actually 100 reasons why not but...hey!)
 - [Digital Thermometer based on LM335](https://github.com/Luca452/Digital-Thermometer-ATMEGA328P): simple digital thermometer based on LM335 sensor using an ATMEGA328P
