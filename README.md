@@ -1,6 +1,8 @@
-## Turn on, tune in, drop out
+## Welcome⚡
 
-⚡ Some of my projects...
+>Turn on, tune in, drop out
+
+⚡ Here's some of my projects...
 <!--
 **Luca452/Luca452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
