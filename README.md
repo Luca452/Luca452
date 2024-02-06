@@ -1,22 +1,12 @@
-## Welcome ⚡
+<div id="header" align="center">
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
->Turn on, tune in, drop out
 
-⚡ Here's some of my projects...
-<!--
-**Luca452/Luca452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Turn on, tune in, drop out...here's some of my projects
 
 ## 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
@@ -31,3 +21,10 @@ Here are some ideas to get you started:
   
 ## 📫 Contacts:
 Email: luca.daidone@mail.polimi.it
+<div id="header" align="left">
+    <a href="www.linkedin.com/in/luca-daidone">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Luca452&style=flat-square&color=blue" alt=""/>
+</div>
+
