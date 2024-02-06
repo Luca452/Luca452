@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 ## 🎓 University Projects:
 - [Digital Electronics System Design course LABs code](https://github.com/Luca452/Digital-Electronics-System-Design-LABs): code of the 3 projects done during the semester. VHDL designs targeting a Basys 3 Artix 7 FPGA board
 - [Sensors Systems course LABs code](https://github.com/Luca452/Sensors-Systems-LABs): code of the 10 homework assigned during the semester. C codes targeting a Nucleo STM32 Board mounted on a custom extension board
-
-📫 contact me: luca.daidone@mail.polimi.it
+  
+## 📫 Contacts:
+Email: luca.daidone@mail.polimi.it
