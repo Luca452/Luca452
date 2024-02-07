@@ -19,7 +19,7 @@
 ## 🎓 University Projects & Materials:
 - [Digital Electronics System Design course LABs codes](https://github.com/Luca452/Digital-Electronics-System-Design-LABs): codes of the 3 projects done during the semester. VHDL designs targeting a Basys 3 Artix 7 FPGA board
 - [Sensors Systems course LABs code](https://github.com/Luca452/Sensors-Systems-LABs): codes of the 10 homeworks assigned during the semester. C codes targeting a Nucleo STM32 board mounted on a custom extension PCB
-- [Microcontrollers course LABs codes](https://github.com/Luca452/Microcontrollori-LABs): codes of the 9 homeworks assigned during the semester, targeting a PIC18F45 microcontroller
+- [Microcontrollers course LABs codes](https://github.com/Luca452/Microcontrollori-LABs): codes of the 9 homeworks assigned during the semester, targeting a PIC18F45K22 microcontroller
   
 ## 📫 Contacts:
 Email: luca.daidone@mail.polimi.it
