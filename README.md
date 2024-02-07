@@ -11,15 +11,15 @@
 ## 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
 - [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32Nucleo-Codec-Shield): an STM32 Nucleo audio shield for real time audio processing, designed with @AleDedor
-- [Characteristic tracer for low power solar cells](https://github.com/Luca452/Solar-cell-characteristics-tracer): Circuit for tracing of the full I-V characteristic, measuring open circuit voltage and short circuit current of a low power solar cell. Used to test the circuit architecture that will be implemented on the [6S CubeSat](https://polispace.it/6s-cubesat-project/) payload.
-- [Sun Simulator for testing of small sized solar cells](https://github.com/Luca452/Sun-Simulator): Sun simulator for testing of small sized solar cells, used for the Perovskite solar cells mounted on 6S CubeSat
-- [Supercapacitors-UPS based on 2x100F supercapacitors](https://github.com/Luca452/Supercapacitor-UPS): UPS based on 2x100F supercapacitors because...why not! (actually 100 reasons why not but...hey!)
-- [Digital Thermometer based on LM335](https://github.com/Luca452/Digital-Thermometer-ATMEGA328P): simple digital thermometer based on LM335 sensor using an ATMEGA328P
+- [Characteristic tracer for low power solar cells](https://github.com/Luca452/Solar-cell-characteristics-tracer): Circuit for tracing and measuring the full I-V characteristic, the open circuit voltage and short circuit current of a solar cell pixel. Used to test the circuit architecture that will be implemented on the [6S CubeSat](https://polispace.it/6s-cubesat-project/)'s payload.
+- [Sun Simulator for testing solar cells pixels](https://github.com/Luca452/Sun-Simulator): sun simulator for testing small sized solar cells, used for the Perovskite solar cells mounted on the 6S CubeSat
+- [Supercapacitors-UPS based on 2x100F supercapacitors](https://github.com/Luca452/Supercapacitor-UPS): UPS based on 2x100F supercapacitors because...why not! (actually 100s of reasons but...hey!)
+- [Digital Thermometer based on LM335](https://github.com/Luca452/Digital-Thermometer-ATMEGA328P): simple digital thermometer based on a LM335 sensor and an ATMEGA328P
   
 ## 🎓 University Projects & Materials:
-- [Digital Electronics System Design course LABs code](https://github.com/Luca452/Digital-Electronics-System-Design-LABs): code of the 3 projects done during the semester. VHDL designs targeting a Basys 3 Artix 7 FPGA board
-- [Sensors Systems course LABs code](https://github.com/Luca452/Sensors-Systems-LABs): code of the 10 homework assigned during the semester. C codes targeting a Nucleo STM32 Board mounted on a custom extension board
-- [Microcontrollers course LABs codes](https://github.com/Luca452/Microcontrollori-LABs): code of the 9 homework assigned during the semester
+- [Digital Electronics System Design course LABs codes](https://github.com/Luca452/Digital-Electronics-System-Design-LABs): codes of the 3 projects done during the semester. VHDL designs targeting a Basys 3 Artix 7 FPGA board
+- [Sensors Systems course LABs code](https://github.com/Luca452/Sensors-Systems-LABs): codes of the 10 homeworks assigned during the semester. C codes targeting a Nucleo STM32 board mounted on a custom extension PCB
+- [Microcontrollers course LABs codes](https://github.com/Luca452/Microcontrollori-LABs): codes of the 9 homeworks assigned during the semester, targeting a PIC18F45 microcontroller
   
 ## 📫 Contacts:
 Email: luca.daidone@mail.polimi.it
