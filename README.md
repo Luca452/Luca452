@@ -10,7 +10,7 @@
 
 ## 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
-- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32Nucleo-Codec-Shield): an STM32 Nucleo audio shield for real time audio processing, designed with @AleDedor
+- [STM32 Nucleo Audio codec shield - Real time audio processing using Miosix RTOS](https://github.com/Luca452/STM32Nucleo-Codec-Shield)(_ongoing_): an STM32 Nucleo audio shield for real time audio processing, designed with @AleDedor
 - [Characteristic tracer for low power solar cells](https://github.com/Luca452/Solar-cell-characteristics-tracer): Circuit for tracing and measuring the full I-V characteristic, the open circuit voltage and short circuit current of a solar cell pixel. Used to test the circuit architecture that will be implemented on the [6S CubeSat](https://polispace.it/6s-cubesat-project/)'s payload.
 - [Sun Simulator for testing solar cells pixels](https://github.com/Luca452/Sun-Simulator): sun simulator for testing small sized solar cells, used for the Perovskite solar cells mounted on the 6S CubeSat
 - [Supercapacitors-UPS based on 2x100F supercapacitors](https://github.com/Luca452/Supercapacitor-UPS): UPS based on 2x100F supercapacitors because...why not! (actually 100s of reasons but...hey!)
