@@ -6,7 +6,7 @@
 </div>
 
 
-⚡ Turn on, tune in, drop out...here's some of my projects
+⚡ Turn on, tune in, drop out...
 
 ## 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
