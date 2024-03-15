@@ -6,7 +6,7 @@
 </div>
 
 
-⚡ Turn on, tune in, drop out...
+⚡ "Sometimes it's the detours which turn out to be the fruitful ideas"
 
 ## 🛠 Personal Projects:
 - [STM32 Custom Development Board](https://github.com/Luca452/STM32-DevBoard): a small portable STM32 development board, initially designed to be used as a keychain keylogger
